@@ -1,8 +1,0 @@
-D:\C#\CSharp Practice 1\CSharp Practice 1\bin\Debug\CSharp Practice 1.exe.config
-D:\C#\CSharp Practice 1\CSharp Practice 1\bin\Debug\CSharp Practice 1.exe
-D:\C#\CSharp Practice 1\CSharp Practice 1\bin\Debug\CSharp Practice 1.pdb
-D:\C#\CSharp Practice 1\CSharp Practice 1\obj\Debug\CSharp Practice 1.csproj.AssemblyReference.cache
-D:\C#\CSharp Practice 1\CSharp Practice 1\obj\Debug\CSharp Practice 1.csproj.SuggestedBindingRedirects.cache
-D:\C#\CSharp Practice 1\CSharp Practice 1\obj\Debug\CSharp Practice 1.csproj.CoreCompileInputs.cache
-D:\C#\CSharp Practice 1\CSharp Practice 1\obj\Debug\CSharp Practice 1.exe
-D:\C#\CSharp Practice 1\CSharp Practice 1\obj\Debug\CSharp Practice 1.pdb
