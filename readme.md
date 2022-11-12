@@ -1,4 +1,4 @@
-# C Sharp Practice
+# C Sharp Practice 1
 
 In this repository, i am trying to build a simple console application that written in C# programming language.
 
